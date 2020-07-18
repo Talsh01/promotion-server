@@ -1,0 +1,6 @@
+{
+    "mongoURL": "mongodb+srv://dbuser:Mongo123456@cluster0-itbvy.mongodb.net/moonactive?retryWrites=true&w=majority",
+    "connectionPoolSize": 10,
+    "promotionContentSize": 10000,
+    "mongoBulkSize": 1000
+}
